@@ -1,4 +1,4 @@
-package com.ranvijay2012.springBoot;
+package com.neeraj.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
